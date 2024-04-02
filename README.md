@@ -25,6 +25,11 @@ AWS GCP Configuration
 ```bash
 # Gcloud cli download link: https://cloud.google.com/sdk/docs/install#windows
 - gcloud init
+
+- gcloud projects create ner_testing
+or change to another project using
+
+- gcloud config set project <PROJECT ID>
 ```
 
 ## How to run?
