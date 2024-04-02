@@ -20,9 +20,11 @@ git commit -m "Updated"
 git push origin main
 AWS GCP Configuration
 ```
-### Gcloud cli download link: https://cloud.google.com/sdk/docs/install#windows
 
+```bash
+# Gcloud cli download link: https://cloud.google.com/sdk/docs/install#windows
 - gcloud init
+```
 
 ## How to run?
 ```bash
