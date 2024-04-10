@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 artifacts/*
+artifacts/04_09_2024_16_23_52/DataIngestionArtifacts/*
