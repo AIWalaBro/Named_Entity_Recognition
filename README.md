@@ -2,6 +2,11 @@
 
 # steps to create a named_entity_recognition_project
 
+# Flow Chart
+<p align="center">
+  <img src="D:\Architectural Diagrams\NER\data_ingestion.svg" width=75% height=50%>
+</p>
+
 ## Workflows
 - constants
 - config_entity
