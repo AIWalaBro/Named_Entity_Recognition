@@ -12,7 +12,7 @@ from ner.constants import *
 from ner.entity.config_entity import DataTransformationConfig
 from ner.exception import NerException
 from ner.logger import logging
-# from ner.utils.utils import MainUtils
+from ner.utils import MainUtils
 
 
 class DataTransformation:
@@ -23,7 +23,7 @@ class DataTransformation:
     ) -> None:
         self.data_transformation_config = data_transformation_config
         self.data_ingestion_artifacts = data_ingestion_artifacts
-        # self.utils = MainUtils()
+        self.utils = MainUtils()
         self.gcloud = GCloud()
 
     def splitting_data(self, df: DataFrame) -> dict:
