@@ -4,7 +4,7 @@
 
 # Flow Chart
 <p align="center">
-  <img src="D:\Architectural Diagrams\NER\data_ingestion.svg" width=75% height=50%>
+  <img src="https://github.com/AIWalaBro/Named_Entity_Recognition/blob/main/flow_charts/data_ingestion.svg" width=75% height=50%>
 </p>
 
 ## Workflows
