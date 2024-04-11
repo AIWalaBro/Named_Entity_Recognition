@@ -14,6 +14,12 @@
 </p>
 
 
+- **Model Training**
+<p align="center">
+  <img src="https://github.com/AIWalaBro/Named_Entity_Recognition/blob/main/flow_charts/mode_training.drawio.svg" width=100% height=50%>
+</p>
+
+
 ## Workflows
 - constants
 - config_entity
