@@ -4,9 +4,15 @@
 
 # Flow Chart
 - **Data Ingestion**
-<p align="center">
+<p align="left">
   <img src="https://github.com/AIWalaBro/Named_Entity_Recognition/blob/main/NER1.drawio.svg" width=50% height=50%>
 </p>
+
+- **Data Transfromation**
+<p align="right">
+  <img src="https://github.com/AIWalaBro/Named_Entity_Recognition/blob/main/flow_charts/data_transformation1.svg" width=50% height=50%>
+</p>
+
 
 ## Workflows
 - constants
