@@ -5,12 +5,12 @@
 # Flow Chart
 - **Data Ingestion**
 <p align="center">
-  <img src="https://github.com/AIWalaBro/Named_Entity_Recognition/blob/main/flow_charts/data_ingestion.svg" width=50% height=50%>
+  <img src="https://github.com/AIWalaBro/Named_Entity_Recognition/blob/main/flow_charts/data_ingestion.svg" width=100% height=50%>
 </p>
 
 - **Data Transformation**
 <p align="center">
-  <img src="https://github.com/AIWalaBro/Named_Entity_Recognition/blob/main/flow_charts/data_transformation.svg" width=50% height=50%>
+  <img src="https://github.com/AIWalaBro/Named_Entity_Recognition/blob/main/flow_charts/data_transformation.svg" width=100% height=50%>
 </p>
 
 
