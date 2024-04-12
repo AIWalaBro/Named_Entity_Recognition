@@ -24,6 +24,11 @@
   <img src="https://github.com/AIWalaBro/Named_Entity_Recognition/blob/main/flow_charts/model_evaluation.svg" width=100% height=50%>
 </p>
 
+- **Model Pusher**
+<p align="center">
+  <img src="https://github.com/AIWalaBro/Named_Entity_Recognition/blob/29ad7a78ba6d9b869d31478d022a7d3329b74327/flow_charts/model_pusher.svg" width=100% height=50%>
+</p>
+
 
 
 ## Workflows
